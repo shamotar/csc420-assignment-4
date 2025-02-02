@@ -1,3 +1,12 @@
+/*
+ *  Title: Assignment 4 - Random List with Generics
+ *  Created by: Robert Norlander
+ *  Email: shamotar@csp.edu
+ *  Date: 2025-02-02
+ *  Class: CSC 420 - Data Structures and Algorithms
+ *  Professor: Susan Furtney
+ */
+
 import java.util.Random;
 
 public class RandomList<E> {
